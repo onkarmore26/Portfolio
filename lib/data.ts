@@ -112,7 +112,7 @@ export const projectsData = [
   {
     title: "Dark Animated Landing Page",
     description: "Built a sleek, minimalistic, and modern animated website. ",
-    tags: ["Next.js 14", "GSAP", "Prismic", "TypeScript"],
+    tags: ["Next.js 14", "GSAP", "Prismic", "JavaScript"],
     imageUrl: landingImg,
     liveUrl: "https://dark-landing-page-brown.vercel.app/",
   },
