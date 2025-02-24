@@ -46,7 +46,7 @@ export const experiencesData = [
     title: "Web Developer - Intern",
     location: "Techspeak IT Solutions",
     description:
-      "Working as a web developer intern, contributing to front-end and back-end development using React, Next.js, and MongoDB.",
+      "Optimized full-stack applications with Next.js and React, improved system efficiency, streamlined database migration to PostgreSQL, and integrated AI-driven automation.",
     icon: React.createElement(CgWorkAlt),
     date: "2024 - Present",
   },
